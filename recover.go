@@ -1,6 +1,6 @@
 
 
-package main
+package quick_sort_test
 
 import (
 "fmt"

@@ -1,4 +1,4 @@
-package main
+package quick_sort_test_test
 
 import (
 	"testing"
@@ -34,5 +34,7 @@ func BenchmarkLoop(b *testing.B) {
 		Loop(40)
 	}
 }
+
+
 
 

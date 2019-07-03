@@ -5,7 +5,7 @@
 // tool to stop processing input if it receives a `SIGINT`.
 // Here's how to handle signals in Go with channels.
 
-package main
+package quick_sort_test
 
 import "fmt"
 import "os"

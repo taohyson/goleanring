@@ -2,9 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e132f8da-06a7-438a-b76c-42ef02c14e89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interfac別名.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quick_sort1_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/READ.me" beforeDir="false" afterPath="$PROJECT_DIR$/READ.me" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContextTest.go" beforeDir="false" afterPath="$PROJECT_DIR$/ContextTest.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContextTest2.go" beforeDir="false" afterPath="$PROJECT_DIR$/ContextTest2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go 1.9 新特性 Type Alias.go" beforeDir="false" afterPath="$PROJECT_DIR$/Go 1.9 新特性 Type Alias.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interfac別名.go" beforeDir="false" afterPath="$PROJECT_DIR$/Interfac別名.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chan缓存池.go" beforeDir="false" afterPath="$PROJECT_DIR$/chan缓存池.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/defer和函数返回值.go" beforeDir="false" afterPath="$PROJECT_DIR$/defer和函数返回值.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/defer执行顺序.go" beforeDir="false" afterPath="$PROJECT_DIR$/defer执行顺序.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/even_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/even_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/golang的方法集.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang的方法集.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goto.go" beforeDir="false" afterPath="$PROJECT_DIR$/goto.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go执行的随机性和闭包.go" beforeDir="false" afterPath="$PROJECT_DIR$/go执行的随机性和闭包.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go的组合继承.go" beforeDir="false" afterPath="$PROJECT_DIR$/go的组合继承.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface内部结构.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface内部结构.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface接口.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface接口.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iota 结果.go" beforeDir="false" afterPath="$PROJECT_DIR$/iota 结果.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/make默认值和append.go" beforeDir="false" afterPath="$PROJECT_DIR$/make默认值和append.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map线程安全.go" beforeDir="false" afterPath="$PROJECT_DIR$/map线程安全.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new数组.go" beforeDir="false" afterPath="$PROJECT_DIR$/new数组.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pprofTest.go" beforeDir="false" afterPath="$PROJECT_DIR$/pprofTest.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recover.go" beforeDir="false" afterPath="$PROJECT_DIR$/recover.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/select随机.go" beforeDir="false" afterPath="$PROJECT_DIR$/select随机.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/syscall.SIGUSR2.go" beforeDir="false" afterPath="$PROJECT_DIR$/syscall.SIGUSR2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uintptrTest.go" beforeDir="false" afterPath="$PROJECT_DIR$/uintptrTest.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/作用域.go" beforeDir="false" afterPath="$PROJECT_DIR$/作用域.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数返回值类型 nil.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数返回值类型 nil.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原子變量.go" beforeDir="false" afterPath="$PROJECT_DIR$/原子變量.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/反射.go" beforeDir="false" afterPath="$PROJECT_DIR$/反射.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/变量作用域.go" beforeDir="false" afterPath="$PROJECT_DIR$/变量作用域.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/变量简短模式.go" beforeDir="false" afterPath="$PROJECT_DIR$/变量简短模式.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常量.go" beforeDir="false" afterPath="$PROJECT_DIR$/常量.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/指针test.go" beforeDir="false" afterPath="$PROJECT_DIR$/指针test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/接口实现接受者指针区别.go" beforeDir="false" afterPath="$PROJECT_DIR$/接口实现接受者指针区别.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/结构体比较.go" beforeDir="false" afterPath="$PROJECT_DIR$/结构体比较.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/闭包.go" beforeDir="false" afterPath="$PROJECT_DIR$/闭包.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,103 +45,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="186" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/变量简短模式.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/READ.me">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Interfac別名.go">
+        <entry file="file://$PROJECT_DIR$/quick_sort1_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface内部结构.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface接口.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="3" selection-start-line="3" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chan缓存池.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+            <state relative-caret-position="150">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <element signature="e#14#39#0" expanded="true" />
+                <element signature="e#26#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uintptrTest.go">
+        <entry file="file://D:/software/go/src/testing/testing.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="22" column="79" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
-              <folding>
-                <element signature="e#14#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/反射.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <element signature="e#14#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/map线程安全.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Go 1.9 新特性 Type Alias.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="26970">
+              <caret line="915" selection-start-line="915" selection-end-line="915" />
             </state>
           </provider>
         </entry>
@@ -135,7 +93,6 @@
         <option value="$PROJECT_DIR$/defer执行顺序.go" />
         <option value="$PROJECT_DIR$/make默认值和append.go" />
         <option value="$PROJECT_DIR$/map线程安全.go" />
-        <option value="$PROJECT_DIR$/interface接口.go" />
         <option value="$PROJECT_DIR$/golang的方法集.go" />
         <option value="$PROJECT_DIR$/typeTest.go" />
         <option value="$PROJECT_DIR$/defer和函数返回值.go" />
@@ -149,22 +106,37 @@
         <option value="$PROJECT_DIR$/函数返回值类型 nil.go" />
         <option value="$PROJECT_DIR$/chan缓存池.go" />
         <option value="$PROJECT_DIR$/uintptr.go" />
-        <option value="$PROJECT_DIR$/uintptrTest.go" />
-        <option value="$PROJECT_DIR$/反射.go" />
         <option value="$PROJECT_DIR$/变量简短模式.go" />
         <option value="$PROJECT_DIR$/new数组.go" />
         <option value="$PROJECT_DIR$/READ.me" />
         <option value="$PROJECT_DIR$/Interface和別名.go" />
         <option value="$PROJECT_DIR$/InterfaceTest.go" />
         <option value="$PROJECT_DIR$/Interfac別名.go" />
+        <option value="$PROJECT_DIR$/原子變量.go" />
+        <option value="$PROJECT_DIR$/uintptrTest.go" />
+        <option value="$PROJECT_DIR$/作用域.go" />
+        <option value="$PROJECT_DIR$/recover.go" />
+        <option value="$PROJECT_DIR$/闭包.go" />
+        <option value="$PROJECT_DIR$/interface接口.go" />
+        <option value="$PROJECT_DIR$/AA.go" />
+        <option value="$PROJECT_DIR$/接口实现接受者指针区别.go" />
+        <option value="$PROJECT_DIR$/pprofTest.go" />
+        <option value="$PROJECT_DIR$/反射.go" />
+        <option value="$PROJECT_DIR$/指针test.go" />
+        <option value="$PROJECT_DIR$/syscall.SIGUSR2.go" />
+        <option value="$PROJECT_DIR$/ContextTest.go" />
+        <option value="$PROJECT_DIR$/ContextTest2.go" />
+        <option value="$PROJECT_DIR$/even_test.go" />
+        <option value="$PROJECT_DIR$/快排.go" />
+        <option value="$PROJECT_DIR$/quick_sort1_test.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="920" />
-    <option name="y" value="160" />
-    <option name="width" value="960" />
-    <option name="height" value="745" />
+    <option name="x" value="-15" />
+    <option name="y" value="110" />
+    <option name="width" value="1200" />
+    <option name="height" value="995" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -193,7 +165,7 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="D:/fun/kratos" />
+    <property name="last_opened_file_path" value="D:/fun/gravity" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -210,20 +182,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build InterfaceTest.go">
-    <configuration name="go build Go 1.9 新特性 Type Alias.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.quick_sort1_test.go">
+    <configuration name="go build 快排.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golearning" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Go 1.9 新特性 Type Alias.go" />
+      <filePath value="$PROJECT_DIR$/快排.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build InterfaceTest.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 作用域.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golearning" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/InterfaceTest.go" />
+      <filePath value="$PROJECT_DIR$/作用域.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -251,116 +223,135 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build goto.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestLoop in even_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="golearning" />
-      <working_directory value="$PROJECT_DIR$/" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/goto.go" />
       <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/even_test.go" />
+      <pattern value="^TestLoop$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build new数组.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestQuickSort in even_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="golearning" />
-      <working_directory value="$PROJECT_DIR$/" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/new数组.go" />
       <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/even_test.go" />
+      <pattern value="^TestQuickSort$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build uintptrTest.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="even_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="golearning" />
-      <working_directory value="$PROJECT_DIR$/" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/uintptrTest.go" />
       <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/even_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quick_sort1_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golearning" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/quick_sort1_test.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build InterfaceTest.go" />
-        <item itemvalue="Go Build.go build new数组.go" />
-        <item itemvalue="Go Build.go build uintptrTest.go" />
-        <item itemvalue="Go Build.go build Go 1.9 新特性 Type Alias.go" />
-        <item itemvalue="Go Build.go build goto.go" />
+        <item itemvalue="Go Test.quick_sort1_test.go" />
+        <item itemvalue="Go Test.even_test.go" />
+        <item itemvalue="Go Test.TestQuickSort in even_test.go" />
+        <item itemvalue="Go Test.TestLoop in even_test.go" />
+        <item itemvalue="Go Build.go build 快排.go" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="quick_sort1_test_go - 2019.07.03 at 18h 01m 28s.xml">
+      <configuration name="quick_sort1_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="quick_sort1_test_go - 2019.07.03 at 18h 01m 40s.xml">
+      <configuration name="quick_sort1_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="quick_sort1_test_go - 2019.07.03 at 18h 02m 31s.xml">
+      <configuration name="quick_sort1_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="quick_sort1_test_go - 2019.07.03 at 18h 03m 00s.xml">
+      <configuration name="quick_sort1_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="quick_sort1_test_go - 2019.07.03 at 18h 04m 03s.xml">
+      <configuration name="quick_sort1_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="quick_sort1_test_go - 2019.07.03 at 18h 04m 35s.xml">
+      <configuration name="quick_sort1_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="quick_sort1_test_go - 2019.07.03 at 18h 06m 21s.xml">
+      <configuration name="quick_sort1_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="quick_sort1_test_go - 2019.07.03 at 18h 06m 34s.xml">
+      <configuration name="quick_sort1_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="quick_sort1_test_go - 2019.07.03 at 18h 07m 10s.xml">
+      <configuration name="quick_sort1_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="quick_sort1_test_go - 2019.07.03 at 18h 08m 38s.xml">
+      <configuration name="quick_sort1_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08914209" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09919571" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33002833" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45750707" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44617563" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45609066" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.30878186" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3292683" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/golearning$even_test_go.out" NAME="even_test.go Coverage Results" MODIFIED="1562136256385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/golearning$quick_sort1_test_go.out" NAME="quick_sort1_test.go Coverage Results" MODIFIED="1562137186059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/golearning$BenchmarkLoop_in_even_test_go.out" NAME="BenchmarkLoop in even_test.go Coverage Results" MODIFIED="1561782067881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>datas[start]</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/typeTest.go" />
-    <entry file="file://D:/software/go/src/builtin/builtin.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/software/go/src/runtime/panic.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19830">
-          <caret line="665" column="16" selection-start-line="665" selection-start-column="16" selection-end-line="665" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/software/go/src/errors/errors.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/变量作用域.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/常量.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/结构体比较.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数返回值类型 nil.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -409,13 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/defer执行顺序.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/defer和函数返回值.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -440,13 +424,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/go.mod">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/software/go/src/runtime/proc.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8880">
@@ -454,10 +431,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/变量简短模式.go">
+    <entry file="file://$PROJECT_DIR$/go.mod" />
+    <entry file="file://$PROJECT_DIR$/READ.me">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="3660">
+          <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interfac別名.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface内部结构.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -471,23 +463,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uintptrTest.go">
+    <entry file="file://D:/software/go/src/unsafe/unsafe.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="22" column="79" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
-          <folding>
-            <element signature="e#14#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="5370">
+          <caret line="179" column="27" selection-start-line="179" selection-start-column="14" selection-end-line="179" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/反射.go">
+    <entry file="file://D:/software/go/src/builtin/builtin.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2460">
+          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -505,31 +491,218 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/READ.me">
+    <entry file="file://$PROJECT_DIR$/原子變量.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
+        <state relative-caret-position="180">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#14#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface内部结构.go">
+    <entry file="file://$PROJECT_DIR$/uintptrTest.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="300">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/作用域.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/变量作用域.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/常量.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/结构体比较.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/defer执行顺序.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数返回值类型 nil.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/变量简短模式.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recover.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <element signature="e#16#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/闭包.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#14#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/interface接口.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="3" selection-start-line="3" selection-end-line="4" />
+        <state relative-caret-position="303">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interfac別名.go">
+    <entry file="file://$PROJECT_DIR$/接口实现接受者指针区别.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="150">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pprofTest.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/反射.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="87" column="21" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/指针test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syscall.SIGUSR2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="32" column="21" selection-start-line="34" selection-end-line="35" />
+          <folding>
+            <element signature="e#365#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContextTest.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/go/src/context/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5970">
+          <caret line="205" column="5" selection-start-line="205" selection-start-column="5" selection-end-line="205" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/go/src/syscall/types_windows.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/go/src/reflect/type.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="145" column="4" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContextTest2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/even_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="693" column="20" lean-forward="true" selection-start-line="693" selection-start-column="20" selection-end-line="693" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick_sort1_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#26#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/go/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26970">
+          <caret line="915" selection-start-line="915" selection-end-line="915" />
         </state>
       </provider>
     </entry>

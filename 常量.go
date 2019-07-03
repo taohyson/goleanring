@@ -1,4 +1,4 @@
-package main
+package quick_sort_test
 
 const cl = 100
 

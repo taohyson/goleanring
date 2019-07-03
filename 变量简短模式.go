@@ -1,4 +1,4 @@
-package main
+package quick_sort_test
 
 var (
 	size    := 1024
